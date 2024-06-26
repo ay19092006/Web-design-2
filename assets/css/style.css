@@ -1,0 +1,55 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bg-warning, .btn-warning{
+    background-color: rgb(219, 178, 42)!important;
+}
+
+.bg-secondary{
+    background-color: rgb(72, 54, 54)!important;
+}
+.bg-dark{
+    background-color: #F7EEDF !important;
+}
+.bg-light{
+    background-color: #EEDEC7 !important;
+}
+.bg-info{
+    background-color: #277A8C !important;
+}
+.active{
+    color: aqua!important;
+}
+/* header section */
+.logo-img{
+
+    width: 35px;
+}
+
+
+.search-input::placeholder{
+    color: white;
+}
+/* header section */
+
+
+/* banner section */
+.banner{
+    background-color: bisque;
+
+}
+
+.container-fluid button{
+    float: right;
+}
+
+.behind_img{
+    background-image: url(../images/banner-design.png);
+}
+.upper_img{
+    position: absolute;
+    top:-30px;
+    
+}
+/* banner section */
